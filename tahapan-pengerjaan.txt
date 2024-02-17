@@ -1,0 +1,6 @@
+0. Persiapan
+1. Membuat papan permainan
+2. Menambah pemain lawan
+3. Menentukan pemenang
+4. Menambahkan fitur 'time travel'
+5. Refactor
